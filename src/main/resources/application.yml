@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: solr-starter
+
+server:
+  port: 8081
+
